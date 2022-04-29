@@ -103,7 +103,7 @@ Daily learning
 [Function Types](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions "Function Types")
 
 
-[Calculator](https://github.com/njtsb1/JavaScript_Basic_Syntax "Calculator")
+[Calculator](https://github.com/njtsb1/JavaScript_Basic_Syntax/blob/main/06%20-%20Delving%20into%20functions/calculator.js "Calculator")
 
 * Function types
 * Declaration
