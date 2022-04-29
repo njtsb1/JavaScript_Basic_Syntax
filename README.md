@@ -123,3 +123,5 @@ Daily learning
 If this repository has helped you with your studies in any way:
 * Fork this repository for study and contribute knowledge.
 * leave your star in this repository.
+
+[LICENSE](./LICENSE)
