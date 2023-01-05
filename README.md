@@ -125,3 +125,5 @@ If this repository has helped you with your studies in any way:
 * leave your star in this repository.
 
 [LICENSE](./LICENSE)
+
+-  Original Repository [Original Repository](https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript) of Diana Martine [Diana Martine] (https://github.com/DianaMartine)
